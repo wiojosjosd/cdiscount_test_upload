@@ -8,3 +8,10 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/cdiscount_test_upload.iml
+/dbnavigator.xml
+/misc.xml
+/modules.xml
+/mybatis-sql-config.xml
+/UniappTool.xml
+/vcs.xml
